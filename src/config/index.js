@@ -1,6 +1,7 @@
 /**
  * AuthX Configuration
  * Centralized configuration management with environment variables
+ * abhay
  */
 
 require('dotenv').config();
