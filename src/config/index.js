@@ -2,6 +2,7 @@
  * AuthX Configuration
  * Centralized configuration management with environment variables
  * abhay
+ * Pritam
  */
 
 require('dotenv').config();
