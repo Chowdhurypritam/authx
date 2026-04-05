@@ -1,6 +1,9 @@
 /**
  * AuthX Configuration
  * Centralized configuration management with environment variables
+ * ragav
+ * abhay
+ * Pritam
  */
 
 require('dotenv').config();
